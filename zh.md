@@ -1,14 +1,20 @@
 ---
 layout: default
-title: Zehan 的项目
+title: 泽汉的个人导航
 permalink: /zh/
 ---
 
 [English](https://wangzehan.com/) · [中文](https://wangzehan.com/zh/)
 
-# Zehan 的项目
+# 泽汉的个人导航
 
-我常驻深圳与香港，持续开发跨平台应用、学生工具和 AI 辅助产品，也记录自己的玩车日志。
+独立开发者 · App Store开发者 · Google Play开发者 · 哔哩哔哩Toy开发者
+
+本科在武汉工程大学读的软件工程，经常用Flutter跨平台框架构建移动客户端产品。服务端重度依赖Cloudflare.
+
+目前居住在深圳，港深通勤，在香港城市大学读AIFS项目中。
+
+未来期望职业是产品经理。
 
 [![个人主页](https://img.shields.io/badge/-Home-111111?style=flat-square&logo=safari&logoColor=white)](https://wangzehan.com/)[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WZehan)[![哔哩哔哩](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/37630472)[![X](https://img.shields.io/badge/-zehan2003-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/zehan2003)[![博客](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=rss&logoColor=white)](https://blog.wangzehan.com)
 

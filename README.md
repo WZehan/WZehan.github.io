@@ -1,12 +1,18 @@
 [English](https://wangzehan.com/) · [中文](https://wangzehan.com/zh/)
 
-# Zehan's Projects
+# Zehan's Personal Navigation
 
-I build cross-platform apps, student tools, and AI-assisted products from Shenzhen and Hong Kong, while documenting my car projects along the way.
+Independent Developer · App Store Developer · Google Play Developer · Bilibili Toy Developer
+
+I studied Software Engineering at Wuhan Institute of Technology for my bachelor's degree, and I often build mobile client products with the Flutter cross-platform framework. I rely heavily on Cloudflare for the server side.
+
+I currently live in Shenzhen and commute between Hong Kong and Shenzhen, studying in the AIFS programme at City University of Hong Kong.
+
+My goal is to become a product manager.
 
 [![Home](https://img.shields.io/badge/-Home-111111?style=flat-square&logo=safari&logoColor=white)](https://wangzehan.com/)[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WZehan)[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/37630472)[![X](https://img.shields.io/badge/-zehan2003-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/zehan2003)[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=rss&logoColor=white)](https://blog.wangzehan.com)
 
-## Car Logs
+## Carplay Log
 
 ### VW Clock
 
