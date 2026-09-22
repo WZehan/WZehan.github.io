@@ -20,6 +20,7 @@ A recreation of three digital clock styles found in Volkswagen infotainment syst
 An audio visualizer for Android car head units, designed to remain compatible with Android 5.1.
 
 - [Source code](https://github.com/WZehan/Sound-Visualizer)
+- [Video demo on YouTube](https://www.youtube.com/watch?v=b3JnN11VQL8)
 
 <!-- Add future car projects or video logs below this line. Suggested format:
 ### Project or Video Title

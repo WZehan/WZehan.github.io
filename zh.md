@@ -26,6 +26,7 @@ permalink: /zh/
 面向安卓车机的音频可视化软件，兼容 Android 5.1。
 
 - [源代码](https://github.com/WZehan/Sound-Visualizer)
+- [视频演示](https://www.bilibili.com/video/BV1ybh76NEP7)
 
 <!-- 在此行下方添加新的玩车项目或视频日志。建议格式：
 ### 项目或视频标题
