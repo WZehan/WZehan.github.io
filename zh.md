@@ -106,3 +106,5 @@ permalink: /zh/
 ---
 
 更多笔记、实验记录与开发故事可以在我的[个人博客](https://blog.wangzehan.com)查看。
+
+[皖ICP备2026016628号-1](https://beian.miit.gov.cn/)
